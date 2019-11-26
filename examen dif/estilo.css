@@ -1,0 +1,74 @@
+body{
+	background-image:linear-gradient(to right,#91D733,#3F5D16);
+}
+nav{
+	display:block;
+	padding-top:15px;
+	padding-left:250px;
+}
+header{
+	height: 80px;
+	background-color:white;
+	position: fixed;
+}
+main{
+		padding-top:80px;
+	
+}
+.logo{
+	width:5%;
+	height:70%;
+	float: left;
+	padding: 15px 0 0 20px;
+}
+
+.normal img{
+	filter: grayscale(100%);
+	transition: .3s ease-in-out;
+}
+.normal img:hover{
+	filter: grayscale(0);
+}
+li{
+	display:inline;
+	 padding: 8px;
+	background-color: white;
+}
+li:hover{
+	background:#262424;
+	color:#DEDADA;
+}
+a {
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	color:#DEDADA;
+}
+.cabeza{
+	background:#38D4A0;
+	border-collapse: collapse;
+}
+
+.comit{
+	width:50%;
+	height:80%;
+	background:white;
+}
+form{
+	background-image:linear-gradient(to left,#DDDD4C,#85852D);
+	float:center-right;
+	
+}
+.envio{
+	border:none;
+	background-image:linear-gradient(to top,#237221,#358722);
+	padding:18px;
+	color:white;
+}
+.reset{
+	border:none;
+	background-image:linear-gradient(to top,#9C362A,#68241B);
+	padding:18px;
+	color:white;
+}
