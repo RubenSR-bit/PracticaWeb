@@ -1,0 +1,24 @@
+<xml version="1.0" encoding="UTF-8">
+<rss version="2.0">
+	<channel>
+		<title>Canal RSS Ruben SR</title>
+		<link>http://localhost/examen%20dif/INDEX.html</link>
+		<description>Actualizacion de cosas del dia a dia</description>
+		
+		<item>
+			<title>Los peores resultados en pisa</title>
+			<link>https://elpais.com/sociedad/2019/12/03/actualidad/1575328003_039914.html</link>
+			<description>Caida en el pais sobre el informe pisa bajo minimos </description>
+		</item>
+		<item>
+			<title>Destruccin de empleo</title>
+			<link>https://www.elmundo.es/economia/2019/12/03/5de6168f21efa040138b465e.html</link>
+			<description>La mayor destruccion de empleo en noviembre desde 2013</description>
+		</item>
+		<item>
+			<title></title>
+			<link></link>
+			<description></description>
+		</item>
+	</channel>
+</xml>
