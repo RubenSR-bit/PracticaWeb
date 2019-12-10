@@ -1,4 +1,4 @@
-<xml version="1.0" ; encoding="UTF-8">
+<xml version="1.0" encoding="UTF-8">
 <rss version="2.0">
 	<channel>
 		<title>Canal RSS Ruben SR</title>
@@ -11,7 +11,7 @@
 			<description>Caida en el pais sobre el informe pisa bajo minimos </description>
 		</item>
 		<item>
-			<title>Destruccin de empleo</title>
+			<title>Destruccion de empleo</title>
 			<link>https://www.elmundo.es/economia/2019/12/03/5de6168f21efa040138b465e.html</link>
 			<description>La mayor destruccion de empleo en noviembre desde 2013</description>
 		</item>
