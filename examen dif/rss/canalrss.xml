@@ -4,7 +4,7 @@
 		<title>Canal RSS Ruben SR</title>
 		<link>http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html</link>
 		<description>Actualizacion de cosas del dia a dia</description>
-	</channel>
+	
 		<item>
 			<title>Los peores resultados en pisa</title>
 			<link>https://elpais.com/sociedad/2019/12/03/actualidad/1575328003_039914.html</link>
@@ -20,5 +20,6 @@
 			<link>https://www.20minutos.es/noticia/4082666/0/papeles-afganistan-investigacion-revela-mentira-gobiernos-ee-uu-guerra-afganistan/</link>
 			<description></description>
 		</item>
+	</channel>	
 </rss>
 </xml>
