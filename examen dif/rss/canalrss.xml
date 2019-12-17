@@ -1,30 +1,34 @@
-<xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
+	<!--define el canal-->
 		<title>Noticias Ruben SR</title>
 		<link>http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html</link>
 		<description>Actualizacion de cosas del dia a dia</description>
-	
+		<languaje>es</languaje>
+		<managingEditor>r.suarezreyes@iesrodmarin.com</managingEditor>
+	<!--Noticias del pais-->
 		<item>
 			<title>Los peores resultados en pisa</title>
 			<link>https://elpais.com/sociedad/2019/12/03/actualidad/1575328003_039914.html</link>
 			<description>Caida en el pais sobre el informe pisa bajo minimos </description>
+			<pubDate>10:37</pubDate>
+			<category>Actualidad</category>
 		</item>
 		<item>
 			<title>Destruccion de empleo</title>
 			<link>https://www.elmundo.es/economia/2019/12/03/5de6168f21efa040138b465e.html</link>
 			<description>La mayor destruccion de empleo en noviembre desde 2013</description>
+			<category>Actualidad</category>
 		</item>
+	<!--Noticias de 20 min-->
 		<item>
 			<title>La mentira sobre la gerra en Afgalnistan</title>
 			<link>https://www.20minutos.es/noticia/4082666/0/papeles-afganistan-investigacion-revela-mentira-gobiernos-ee-uu-guerra-afganistan/</link>
 			<description>lo que nos mientes los gobiernos sobre alfagistan al detalle</description>
+			<category>Guerra</category>
 		</item>
-		<item>
-			<title>La mentira sobre la gerra en Afgalnistan</title>
-			<link>https://www.20minutos.es/noticia/4082666/0/papeles-afganistan-investigacion-revela-mentira-gobiernos-ee-uu-guerra-afganistan/</link>
-			<description>lo que nos mientes los gobiernos sobre alfagistan al detalle</description>
-		</item>
+		
 	</channel>	
 </rss>
 </xml>
