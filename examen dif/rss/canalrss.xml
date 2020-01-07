@@ -47,6 +47,7 @@
 		<item>
 			<title>Xiaomi mi note 10</title>
 			<enclosure url="https://www.youtube.com/watch?v=L3HTPPrUC2Y"/><!--Te permite poner un archivo multimedia-->
+			<category>Tecnologia</category>
 		</item>
 			<image>
 				<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
@@ -54,6 +55,5 @@
 				<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
 				<author>Ruben</author>
 			</image>
-			
 	</channel>	
 </rss>
