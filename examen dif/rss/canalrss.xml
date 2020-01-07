@@ -37,6 +37,7 @@
      			<title>Torra acuerda reunirse cuando haya gobierno</title>
      			<link>https://www.20minutos.es/noticia/4090781/0/torra-queja-sanchez-no-atender-llamadas-acuerdan-reunirse-cuando-haya-gobierno/</link>
    			</image>
+			<link>https://www.20minutos.es/noticia/4090781/0/torra-queja-sanchez-no-atender-llamadas-acuerdan-reunirse-cuando-haya-gobierno/</link>
 			<description>Torra se queja de que no le cojen el telefono y tambien al final yegan al acuerdo de reunirse cuando se consolide el gobierno</description>
 			<source url="https://www.20minutos.es/">20minutos</source><!--fuente de la informacion-->
 			<category>Politica</category>
@@ -47,13 +48,12 @@
 			<title>Xiaomi mi note 10</title>
 			<enclosure url="https://www.youtube.com/watch?v=L3HTPPrUC2Y"/><!--Te permite poner un archivo multimedia-->
 		</item>
-		</item>
 			<image>
 				<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
 				<title>Iran declara como terroristas EE.UU</title>
 				<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
+				<author>Ruben</author>
 			</image>
-			<author>Ruben</author>
-		</item>
+			
 	</channel>	
 </rss>
