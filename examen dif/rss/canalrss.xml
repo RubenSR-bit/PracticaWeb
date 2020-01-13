@@ -10,6 +10,13 @@
 		<generator>Notepad</generator><!--Generador del feed-->
 		<managingEditor>r.suarezreyes@iesrodmarin.com (Ruben Suarez)</managingEditor><!--Editor del rss-->
 		<copyright>2019 all rights reserved</copyright><!--Indica derechos del copyright-->
+		<!--entrada de texto en busqueda de google-->
+		<textinput>
+    		<description>Search Google</description>
+    		<title>Search</title>
+    		<link>http://www.google.no/search?</link>
+    		<name>q</name>
+  		</textinput>
 	<!--Noticias del pais-->
 		<item>
 			<title>Los peores resultados en pisa</title>
