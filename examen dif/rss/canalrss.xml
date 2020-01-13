@@ -48,11 +48,13 @@
 			<enclosure url="https://www.youtube.com/watch?v=L3HTPPrUC2Y"/><!--Te permite poner un archivo multimedia-->
 			<category>Tecnologia</category>
 		</item>
-		<image>
-			<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
-			<title>Iran declara como terroristas EE.UU</title>
-			<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
-			<author>Ruben</author>
-		</image>
+		<item>
+			<image>
+				<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
+				<title>Iran declara como terroristas EE.UU</title>
+				<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
+				<author>Ruben</author>
+			</image>
+		</item>
 	</channel>	
 </rss>
