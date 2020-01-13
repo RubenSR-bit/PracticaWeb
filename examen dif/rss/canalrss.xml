@@ -22,7 +22,7 @@
 			<title>Los peores resultados en pisa</title>
 			<link>https://elpais.com/sociedad/2019/12/03/actualidad/1575328003_039914.html</link>
 			<description>Caida en el pais sobre el informe pisa bajo minimos </description>
-			<pubDate>Martes 17 de diciembre de 2019 10:37</pubDate><!--Fecha de subida-->
+			<pubDate>Mar, 17 de diciembre de 2019 10:37:00  CET</pubDate><!--Fecha de subida-->
 			<category>Actualidad</category><!--Categoria de la noticia-->
 		</item>
 		<item>
@@ -39,10 +39,7 @@
 			<category>Guerra</category>
 		</item>
 		<item>
-			 <image><!--Te permite poner una imagen-->
-     			<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2019/12/13/el-pte-del-gobierno-pedro-sanchez-y-el-pte-de-la-generalitat-quim-torra.jpeg</url>
-     			<title>Torra acuerda reunirse cuando haya gobierno</title>
-   			</image>
+     		<title>Torra acuerda reunirse cuando haya gobierno</title>
 			<link>https://www.20minutos.es/noticia/4090781/0/torra-queja-sanchez-no-atender-llamadas-acuerdan-reunirse-cuando-haya-gobierno/</link>
 			<description>Torra se queja de que no le cojen el telefono y tambien al final yegan al acuerdo de reunirse cuando se consolide el gobierno</description>
 			<source url="https://www.20minutos.es/">20minutos</source><!--fuente de la informacion-->
@@ -55,13 +52,11 @@
 			<enclosure url="https://www.youtube.com/watch?v=L3HTPPrUC2Y"/><!--Te permite poner un archivo multimedia-->
 			<category>Tecnologia</category>
 		</item>
-		<item>
-			<image>
-				<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
-				<title>Iran declara como terroristas EE.UU</title>
-				<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
-				<author>Ruben</author>
-			</image>
-		</item>
+		<image><!--pone una image referenciada a una noticia-->
+			<url>https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/01/07/parlamento-irani.jpeg</url>
+			<title>Iran declara como terroristas EE.UU</title>
+			<link>https://www.20minutos.es/noticia/4107191/0/parlamento-iran-declara-pentafono-ejercito-ee-uu-organizaciones-terroristas/</link>
+			<author>Ruben</author>
+		</image>
 	</channel>	
 </rss>
