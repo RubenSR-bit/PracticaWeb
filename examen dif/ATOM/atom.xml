@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
-    <title>Feed ATOM RubenSR</title>
-    <id>http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html</id>
-    <link rel="self" type="application/atom+xml" href="http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/ATOM/atom.xml" />
-    <link rel="alternate"  type="text/html" href="http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html" />
-    <updated>2020-01-13T10:15:00Z</updated>
-    <author>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es"><!--Elemento basico apertura y definicion del documento ATOM-->
+    <title>Feed ATOM RubenSR</title><!--Elemento basico canal-->
+    <id>http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html</id><!--Elemento basico canal-->
+    <link rel="self" type="application/atom+xml" href="http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/ATOM/atom.xml" /><!--Elemento basico canal(indica donde esta alojado el archivo)-->
+    <link rel="alternate"  type="text/html" href="http://web-lm-pruebaj.apps.us-west-1.starter.openshift-online.com/examen%20dif/INDEX.html" /><!--Elemento basico canal(indica de la pagina de donde parte el archivo)-->
+    <updated>2020-01-13T10:15:00Z</updated><!--Elemento basico canal-->
+    <author><!--Elemento basico canal(indica con nombre y correo quien es el autor)-->
         <name>Ruben Suarez Reyes</name>
         <email>r.suarezreyes@iesrodmarin.com</email>
     </author>
-    <entry>
-        <title>Presidente iraní firma un proyecto de ley para vengarse de EEUU</title>
-        <id>https://www.hispantv.com/category/noticias-de-iran/1</id>
-        <updated>2020-01-13T11:30:00Z</updated>
-        <link rel="alternate" type="text/html" href="https://www.hispantv.com/noticias/politica/446875/iran-ley-pentagono-asesinato-soleimani" />
-        <summary>El presidente de Irán, Hasan Rohani, firma un proyecto de ley para designar como “terrorista” al Departamento de Defensa de Estados Unidos (el Pentágono).</summary>
+    <entry><!--Elemento basico entrada de noticia-->
+        <title>Presidente iraní firma un proyecto de ley para vengarse de EEUU</title><!--Elemento basico(titulo de la noticia)-->
+        <id>https://www.hispantv.com/category/noticias-de-iran/1</id><!--Elemento basico(pagina de donde parte la noticia)-->
+        <updated>2020-01-13T11:30:00Z</updated><!--Elemento basico(fecha de edicion)-->
+        <link rel="alternate" type="text/html" href="https://www.hispantv.com/noticias/politica/446875/iran-ley-pentagono-asesinato-soleimani" /><!--Elemento basico(enlace noticia)-->
+        <summary>El presidente de Irán, Hasan Rohani, firma un proyecto de ley para designar como “terrorista” al Departamento de Defensa de Estados Unidos (el Pentágono).</summary><!--Elemento basico(resumen)-->
     </entry>
 </feed>
