@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es"><!--Elemento basico apertura y definicion del documento ATOM-->
     <title>Feed ATOM RubenSR</title><!--Elemento basico canal-->
@@ -16,5 +15,21 @@
         <updated>2020-01-13T11:30:00Z</updated><!--Elemento basico(fecha de edicion)-->
         <link rel="alternate" type="text/html" href="https://www.hispantv.com/noticias/politica/446875/iran-ley-pentagono-asesinato-soleimani" /><!--Elemento basico(enlace noticia)-->
         <summary>El presidente de Irán, Hasan Rohani, firma un proyecto de ley para designar como “terrorista” al Departamento de Defensa de Estados Unidos (el Pentágono).</summary><!--Elemento basico(resumen)-->
+    </entry>
+    <entry>
+        <title>Sanchez con el nuevo consejo de ministros</title>
+        <id>http://www.rtve.es/</id>
+        <category term="politica"/>
+        <updated>2020-01-14T10:10:00Z</updated>
+        <link rel="alternate" type="text/html" href="http://www.rtve.es/noticias/20200114/pedro-sanchez-posa-miembros-su-nuevo-gobierno-antes-del-primer-consejo-ministros/1995508.shtml"/>
+        <summary>
+            Antes de empezar la reunión, como ya hiciera en su anterior mandato, 
+            Sánchez ha leído una carta a sus ministros en la que les ha recordado sus compromisos 
+            como miembros del Gobierno y les ha animado a ser "un Gobierno de acción" y a mantener una "actitud dialogante" 
+            ante las distintas procedencias de sus miembros.
+        </summary>
+        <contributor>
+            <name>RubenSR</name>
+        </contributor>
     </entry>
 </feed>
