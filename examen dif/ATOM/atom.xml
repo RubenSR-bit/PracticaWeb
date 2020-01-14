@@ -9,6 +9,8 @@
         <name>Ruben Suarez Reyes</name>
         <email>r.suarezreyes@iesrodmarin.com</email>
     </author>
+    <icon>https://www.iconattitude.com/icons/open_icon_library/gnome-style/png/256/application-atom+xml.png</icon>
+
     <entry><!--Elemento basico entrada de noticia-->
         <title>Presidente iraní firma un proyecto de ley para vengarse de EEUU</title><!--Elemento basico(titulo de la noticia)-->
         <id>https://www.hispantv.com/category/noticias-de-iran/1</id><!--Elemento basico(pagina de donde parte la noticia)-->
@@ -16,10 +18,11 @@
         <link rel="alternate" type="text/html" href="https://www.hispantv.com/noticias/politica/446875/iran-ley-pentagono-asesinato-soleimani" /><!--Elemento basico(enlace noticia)-->
         <summary>El presidente de Irán, Hasan Rohani, firma un proyecto de ley para designar como “terrorista” al Departamento de Defensa de Estados Unidos (el Pentágono).</summary><!--Elemento basico(resumen)-->
     </entry>
+
     <entry>
         <title>Sanchez con el nuevo consejo de ministros</title>
         <id>http://www.rtve.es/</id>
-        <category term="politica"/>
+        <category term="politica"/><!--Categoria de la noticia-->
         <updated>2020-01-14T10:10:00Z</updated>
         <link rel="alternate" type="text/html" href="http://www.rtve.es/noticias/20200114/pedro-sanchez-posa-miembros-su-nuevo-gobierno-antes-del-primer-consejo-ministros/1995508.shtml"/>
         <summary>
@@ -28,8 +31,27 @@
             como miembros del Gobierno y les ha animado a ser "un Gobierno de acción" y a mantener una "actitud dialogante" 
             ante las distintas procedencias de sus miembros.
         </summary>
-        <contributor>
+        <contributor><!--Cotribuidor de la noticia-->
             <name>RubenSR</name>
         </contributor>
+    </entry>
+
+    <entry>
+        <title>"robots vivos" a partir de celulas de rana</title>
+        <id>http://www.rtve.es/</id>
+        <category term="biotecnologia"/>
+        <updated>2020-01-14T11:33:00Z</updated>
+        <link rel="alternate" type="text/html" href="http://www.rtve.es/noticias/20200113/cientificos-estadounidenses-disenan-pequenos-robots-vivos-partir-celulas-rana/1995482.shtml"/>
+        <summary>
+            Un equipo de científicos de las universidades de Vermont y de Tufts, en Estados Unidos, 
+            ha logrado construir milimétricos "robots vivos", ensamblados a partir de células de ranas y que podrían servir 
+            para suministrar medicamentos, limpiar residuos tóxicos o recoger microplásticos en los océanos.
+
+            Los primeros diseñaron estas "nuevas criaturas" a través de operaciones en un supercomputador y 
+            los segundos se encargaron de ensamblarlas y probarlas. 
+        </summary>
+        <rights type="html"><!--Derechos-->
+            &amp;copy; 2019 Ruben Suarez
+        </rights>
     </entry>
 </feed>
